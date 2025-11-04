@@ -1,4 +1,4 @@
-## Hi there 👋
+## Miłego chlania
 
 <!--
 **k0ncheniy/K0ncheniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
